@@ -1,0 +1,36 @@
+---
+Player:
+  alias: player
+  isDefault: true
+  inheritance: []
+  permissions: []
+  worlds: []
+Fly:
+  alias: fly
+  inheritance:
+  - Player
+  permissions: []
+  worlds: []
+Vip:
+  alias: vip
+  inheritance:
+  - Player
+  - Fly
+  permissions: []
+  worlds: []
+Creativ:
+  alias: creativ
+  inheritance:
+  - Player
+  - Fly
+  permissions: []
+  worlds: []
+Creativ+:
+  alias: creativ+
+  inheritance:
+  - Player
+  - Fly
+  - Creativ
+  permissions: []
+  worlds: []
+...

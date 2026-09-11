@@ -1,4 +1,4 @@
-name: q
-main: q
+name: AutoParkur
+main: AutoParkur\Main
 version: "1.0"
 api: 1.12.0
