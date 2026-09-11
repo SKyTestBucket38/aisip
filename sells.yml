@@ -1,0 +1,90 @@
+---
+-59:66:-670:world:
+  x: -59
+  "y": 66
+  z: -670
+  level: world
+  price: 999000000
+  region: rud
+  blocks: 25
+-91:87:-798:world:
+  x: -91
+  "y": 87
+  z: -798
+  level: world
+  price: 1000000000
+  region: defkam
+  blocks: 4860
+88:69:-97:world:
+  x: 88
+  "y": 69
+  z: -97
+  level: world
+  price: 10000
+  region: xa
+  blocks: 2304
+482:66:155:world:
+  x: 482
+  "y": 66
+  z: 155
+  level: world
+  price: 9999999999
+  region: milion
+  blocks: 225
+-818:64:96:world:
+  x: -818
+  "y": 64
+  z: 96
+  level: world
+  price: 40000
+  region: "12345"
+  blocks: 10530
+-20:66:-767:world:
+  x: -20
+  "y": 66
+  z: -767
+  level: world
+  price: 20000
+  region: rastik
+  blocks: 2340
+184:67:195:world:
+  x: 184
+  "y": 67
+  z: 195
+  level: world
+  price: 10000
+  region: domgro
+  blocks: 3978
+-95:72:285:world:
+  x: -95
+  "y": 72
+  z: 285
+  level: world
+  price: 50000000000000
+  region: c
+  blocks: 420
+72:68:319:world:
+  x: 72
+  "y": 68
+  z: 319
+  level: world
+  price: 250000
+  region: mafia
+  blocks: 18468
+-129:67:764:world:
+  x: -129
+  "y": 67
+  z: 764
+  level: world
+  price: 65000
+  region: cfc
+  blocks: 4560
+-1197:65:1196:world:
+  x: -1197
+  "y": 65
+  z: 1196
+  level: world
+  price: 200000
+  region: popil
+  blocks: 24
+...

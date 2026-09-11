@@ -1,0 +1,5 @@
+---
+Player:
+  max_regions_num: 3
+  max_region_count_blocks: 15000
+...

@@ -1,0 +1,22 @@
+---
+prefix: ""
+
+welcome-message: "§bДобро пожаловать на сервер §l§eBREADIXPE§r!"
+
+register-message: "§bЧтобы заристрироваться напиши пароль в чат!"
+login-message: "§bНапиши пароль в в чат, чтобы войти на сеpвер!"
+
+register-success-message: "§aРегистрация успешна пройдена!\n§aЗапомни свой пароль - §d{PASSWORD}§r"
+login-success: "§aАвторизация успешнo пройдена! §bУдачной игры!§r"
+password-change-success: "§bПароль успешно изменён! Новый пароль - §d{NEW_PASS}§r"
+last-id-auth-success: "§aВход на сервер выполнен, вводить пароль не нужно!"
+
+login-failed: "§bВведён неверный пароль!§r"
+too-short-password: "§eПароль должен быть больше §b{REG_SYMBOLS} §eзнаков!"
+only-numbers-restricted: "§aПароль из одних цифр §cзапрещен"
+nickname-pass-restricted: "§bПароль в виде ника запрещён!"
+
+min-pass-length: 6
+max-attempts: 3
+kick-message: "§eВы были кикнуты за превышение попыток §6входа!"
+...
